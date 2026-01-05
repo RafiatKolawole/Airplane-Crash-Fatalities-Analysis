@@ -26,4 +26,4 @@ Using Power BI, the analysis focuses on transforming a complex and sensitive dat
 This analysis highlights the critical importance of continued aviation safety measures. The project strengthened my Power BI skills, particularly in data modeling, dashboard design, and communicating insights from sensitive datasets.
 
 ## Dashboard Preview
-*(Insert screenshots of the Power BI dashboard here)*
+![Project Screenshot](IMG_5722.jpeg)
